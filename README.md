@@ -1,5 +1,11 @@
 # RISC-V Operating System Kernel
 
+![Language](https://img.shields.io/badge/language-C%2FC%2B%2B-blue)
+![Assembly](https://img.shields.io/badge/assembly-RISC--V-red)
+![Architecture](https://img.shields.io/badge/architecture-RISC--V-green)
+![Platform](https://img.shields.io/badge/platform-QEMU-orange)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
 A simplified operating system kernel developed in **C++ and RISC-V Assembly** as part of the **Operating Systems 1** course at the School of Electrical Engineering, University of Belgrade.
 
 The project implements the core mechanisms of a multitasking operating system, including dynamic memory allocation, thread management, scheduling, semaphores, system calls, context switching, interrupt handling and console I/O.
